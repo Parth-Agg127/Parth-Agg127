@@ -12,8 +12,8 @@
 <h2>👨‍💻 About Me</h2>
 
 I am Parth Aggarwal, a passionate Software Engineer in the making 🚀. Currently pursuing **IT at DTU**, I’m exploring **DSA, Data Science, and Web Development**.  
-⚡ Fun fact: I love case competitions and have won at IIT Roorkee & IIT Madras!  
-💬 Ask me anything related to **C++, DSA, ML, or Web Dev** — I’d be happy to help.  
+⚡ Fun fact: I enjoy meeting new people and trying out different things in life.  
+💬 Ask me anything — I’d be happy to help.  
 
 ---
 
