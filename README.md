@@ -3,7 +3,7 @@
 </h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/Parth-Agg127?style=social)](https://github.com/Parth-Agg127)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/parth-aggarwal127/)
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Parth-Agg127/Parth-Agg127/main/banner.png" alt="Believe in Yourself">
