@@ -60,6 +60,6 @@ I am Parth Aggarwal, a passionate Software Engineer in the making 🚀. Currentl
 📫 **Connect with me**  
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth" height="30" width="40" /></a>
-<a href="mailto:your.email@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/mail.png" alt="parth" height="50" width="50" /></a>
+<a href="(https://www.linkedin.com/in/parth-aggarwal127/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth" height="30" width="40" /></a>
+<a href="mailto:parthaggarwal481@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/mail.png" alt="parth" height="50" width="50" /></a>
 </p>
