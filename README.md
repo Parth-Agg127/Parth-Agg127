@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Parth Aggarwal  
-  <img src="(https://github.com/Parth-Agg127/Parth-Agg127/blob/main/banner.png)" height="30" width="30">
+  👋
 </h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/Parth-Agg127?style=social)](https://github.com/Parth-Agg127)
