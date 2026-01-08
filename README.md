@@ -17,22 +17,6 @@ I am Parth Aggarwal, a passionate Software Engineer in the making 🚀. Currentl
 
 ---
 
-<h3>📊 Summary</h3>
-
-[![](https://raw.githubusercontent.com/Parth-Agg127/Parth-Agg127/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://raw.githubusercontent.com/Parth-Agg127/Parth-Agg127/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/Parth-Agg127/Parth-Agg127/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://raw.githubusercontent.com/Parth-Agg127/Parth-Agg127/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://raw.githubusercontent.com/Parth-Agg127/Parth-Agg127/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth-Agg127&theme=material-palenight&show_icons=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-Agg127&theme=gruvbox_duo" alt="Parth-Agg127" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth-Agg127&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="Parth-Agg127" /></p> 
-
-<br><br><br><br><br><br>
-
----
-
 <h2>🛠 Tech Stack</h2>
 
 **Languages**  
