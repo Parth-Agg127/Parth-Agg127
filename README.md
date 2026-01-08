@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 About Me</h2>
 
-I am Parth Aggarwal, a passionate Software Engineer in the making 🚀. Currently pursuing **IT at DTU**, I’m exploring **DSA, Data Science, and Web Development**.  
+I am Parth Aggarwal, a passionate Software Engineer in the making 🚀. Currently pursuing **IT at DTU**, I’m exploring **DSA, Data Science, and Full_stack Development**.  
 ⚡ Fun fact: I enjoy meeting new people and trying out different things in life.  
 💬 Ask me anything — I’d be happy to help.  
 
